@@ -90,4 +90,5 @@ volumes:
         driver: local
 
 ```
-:warning: Pay attention before this if docker was up you must use ``` docker container prune``` command in terminal and after that use ``` docker compose up```
+:warning: Pay attention before this if docker was up you must use ``` docker container prune``` command in terminal and after that use <br>
+``` docker compose up```
